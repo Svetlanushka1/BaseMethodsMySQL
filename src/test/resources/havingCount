@@ -1,0 +1,22 @@
+HAVING clause in SQL is used to filter records in combination with the GROUP BY clause.
+It is different from WHERE, since the WHERE clause cannot filter aggregated records.
+-- select customers with the same first name based on their age count
+SELECT COUNT(age) AS Count, first_name
+FROM Customers
+GROUP BY first_name
+HAVING COUNT(age) > 1;
+
+-- select the count of customer ids greater than one and their corresponding country
+SELECT COUNT(customer_id), country
+FROM Customers
+GROUP BY country
+HAVING COUNT(customer_id) > 1;
+
+-- returns the number of values in the Orders table
+SELECT COUNT(*)
+FROM Orders;
+
+-- count of customers who live in the UK
+SELECT COUNT(country) AS customers_in_UK
+FROM Customers
+WHERE country = 'UK';

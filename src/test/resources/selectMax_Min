@@ -1,0 +1,12 @@
+MAX(): returns the largest value among the group.
+
+SELECT MAX(column)
+FROM table;
+
+MIN(): returns the smallest value among the group.
+SELECT MIN(column)
+FROM table;
+
+SUM(): returns the total summed values(non-null) of the specified column.
+FIRST(): returns the first value of an expression.
+LAST(): returns the last value of an expression.

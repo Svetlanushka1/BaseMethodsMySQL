@@ -1,0 +1,5 @@
+CREATE DATABASE my_db;
+CREATE DATABASE IF NOT EXISTS my_db;
+
+How to check for existing databases:
+SHOW DATABASES;

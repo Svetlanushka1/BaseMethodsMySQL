@@ -1,0 +1,25 @@
+ORDER BY clause: The ORDER BY clause in SQL is used to sort data in ascending (ASC) or descending (DESC) order depending on specified field(s) (DESC).
+
+-- orders all rows from Customers in ascending order by country
+SELECT *
+FROM Customers
+ORDER BY country;
+
+-- orders all rows from Customers in ascending order by age
+SELECT *
+FROM Customers
+ORDER BY age ASC;
+
+-- sort all rows from Customers, first by first_name and then by age
+SELECT *
+FROM Customers
+ORDER BY first_name, age;
+
+-- select last_name and age of customers who don't live in the UK
+-- and sort them by last_name in descending order
+
+SELECT last_name, age
+FROM Customers
+WHERE NOT country = 'UK'
+ORDER BY last_name DESC;
+

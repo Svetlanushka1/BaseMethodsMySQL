@@ -1,0 +1,140 @@
+SQL is a declarative programming language used to create, modify, and manipulate data in a relational database managed by a database management system.
+SQL is primarily an information logical language designed to describe, modify, and retrieve data stored in relational databases.
+
+Step 1: Learn SQL Basics
+
+Start your SQL journey by mastering the fundamental concepts.
+
+Start by understanding basic syntax, database structure, and basic SQL commands such as SELECT, INSERT, UPDATE, DELETE, and JOIN.
+
+In the telegram channel t.me/sqlhub you can find guides, lessons, the best libraries and tips for working with data.
+
+https://t.me/addlist/_FjtIq8qMhU0NTYy - channels for studying Data Science and working with databases.
+
+Free SQL courses - Interactive SQL trainer
+Most of the steps in the course are practical tasks on creating SQL queries. Each step includes minimal theory about databases or SQL, examples of similar queries, and an explanation of the implementation.
+
+Duration: Approximately 2 weeks
+
+Link - https://stepik.org/course/63054/promo
+
+Introduction to SQL from Kaggle
+Basic course from the famous data analysis platform Kaggle.
+
+Duration: Approximately 1 week
+
+Skill level: Beginner
+
+Link - https://kaggle.com/learn/intro-to-sql
+
+Advanced SQL Course from Kaggle
+Duration: Approximately 1 week
+
+Skill Level: Intermediate
+
+Link - https://kaggle.com/learn/advanced-sql
+
+Introduction to Databases and SQL Queries from Udemy
+Duration: Approximately 1 week
+
+Skill level: Beginner
+
+Link - https://udemy.com/course/introduction-to-databases-and-sql-querying/
+
+Intro to Relational Databases byUdacity
+Duration: 4 weeks
+
+Skill level: Intermediate student
+
+Link - https://udacity.com/course/intro-to-relational-databases-ud197
+
+Introduction to SQL (DataCamp)
+Duration: 4.5 hours
+
+Skill level: Beginner
+
+Link -
+
+https://datacamp.com/courses/introduction-to-sql
+
+SQL for Data Analysis from Udacity
+Duration: Approximately 4 weeks
+
+Skill Level: Beginner
+
+Link - https://shiksha.com/online-courses/sql-for-data-analysis-course-udacl3
+
+8 - MORE FREE courses and FREE certificates.
+
+❯ SQL http://cognitiveclass.ai/courses/learn-sql-relational-databases
+
+❯ MySQL https://scaler.com/topics/course/sql-using-mysql-course/
+
+❯ PostgreSQL http://freecodecamp.org/learn/relational-database/
+
+A selection of resources where you can learn/improve your knowledge of SQL:
+
+In order to study from scratch:
+
+⏩ https://mode.com/sql-tutorial/ many free lessons for beginners who are progressing
+
+⏩ https://www.sql-ex.ru/ the best SQL trainer, solve a couple of problems a day and no interview tasks will be scary for you
+
+⏩ https://sqlzoo.net/ a few more simulators with tasks to improve practical skills
+
+⏩ https://stepik.org/course/70710/promo for those who already know the basics and background and want to develop their knowledge even more.
+
+Step 2: Explore the different types of DBMS
+
+SQL databases come in different types. It is very important to understand their differences. Popular SQL servers include MySQL, PostgreSQL and Oracle. Each of them has its own strengths and uses.
+
+For example, MySQL is known for its simplicity, while PostgreSQL offers advanced features. Learning these differences will help you choose the right database to solve Data Science problems.
+
+There is a wonderful article on Habré on the topic of choosing a DBMS.
+
+❯ Oracle http://mygreatlearning.com/academy/learn-for-free/courses/oracle-sql
+
+Below are some of the best resources for finding SQL questions and practice assignments:
+
+@data_analysis_ml is a telegram channel for data analysts with many guides and examples with code and tasks for working with data.
+
+SQLZoo is a free online resource that offers interactive lessons and activities to learn SQL. Lessons start with simple queries and gradually become more complex as you learn.
+
+W3Schools SQL is a renowned online resource that offers lessons and examples for learning SQL and other programming languages. Here users will be able to find a variety of materials that will help them deepen their knowledge and apply it in practice.
+
+Codecademy SQL is an interactive course to learn SQL with hands-on practical application.
+
+SQLBolt is a resource that helps beginners and advanced SQL users with free lessons and problems.
+
+Udacity SQL is a course from a well-known online educational resource that will allow you to master the basics of the SQL language and show you how to use it for data analysis.
+
+Khan Academy SQL is a free SQL course that contains lessons and challenges to help you learn the language.
+
+LearnSQL is a paid resource for learning SQL. Contains a large number of lessons and practical tasks.
+
+SQLCourse is a free platform where you can learn SQL skills. There are educational lessons, practice assignments, and tests to test your knowledge.
+
+SQL Tutorial is a free Russian-language resource that provides the opportunity to learn SQL. Here you can find lessons and assignments that will help you put your knowledge into practice.
+
+The Mode Analytics SQL Tutorial is a free course that offers training in basic and advanced SQL language skills.
+
+SQL Exercises is a free online resource that provides problems and exercises for learning and practicing SQL. The resource contains many tasks that will help you develop practical skills in working with SQL.
+
+SQL Fiddle is an online service that allows you to create, test, and debug SQL queries completely free of charge.
+
+Learn SQL the Hard Way is a book for learning SQL, containing lessons and assignments for practical work.
+
+DataCamp SQL is a SQL course from DataCamp that teaches you the basics of the SQL language and how it can be used for data analysis. Contains lessons and practical tasks in practice.
+
+Learn to protect your databases. SQL databases are one of the most important components of any organization's information system. They contain valuable data such as customers' personal information, financial data, business plans and other sensitive information. Thus, protecting SQL databases is a critical aspect of information system security.
+There are several ways to protect SQL databases:
+
+Authentication and authorization. This is the first step in securing SQL databases. Authentication verifies the identity of users, and authorization determines what actions those users can perform in the database. Using strong passwords, two-factor authentication, and restricting access rights will help prevent unauthorized access to data.
+
+Data encryption. Data encryption is an effective way to protect SQL databases. It is the process of converting readable data into a form that is incomprehensible to outsiders. Encryption can be applied at both the database and application levels. This will help prevent information leakage in case of unauthorized access to the database.
+
+Regular backups. Regularly backing up SQL databases is an important aspect of protecting them. In the event of a system failure, attack by intruders, or accidental deletion of data, having a backup copy will allow you to quickly restore the database and minimize the loss of information.
+
+Updates and fixes. Regularly updating your SQL database software and installing the latest patches is an integral part of protecting it. Manufacturers are constantly releasing updates to fix vulnerabilities and improve security. You need to keep an eye on these updates and install them as soon as possible.
+
+Monitoring and audit. Regular monitoring of SQL databases allows you to detect any suspicious activity or anomalies that may indicate possible attacks or security breaches. It is also important to audit your databases to be able to

@@ -1,0 +1,10 @@
+What is the SELECT statement?
+A SELECT command gets zero or more rows from one or more database tables or views. The most frequent data manipulation language (DML) command is SELECT in most applications. SELECT queries define a result set, but not how to calculate it, because SQL is a declarative programming language.
+Q. What are some common clauses used with SELECT query in SQL?
+The following are some frequent SQL clauses used in conjunction with a SELECT query:
+WHERE clause: In SQL, the WHERE clause is used to filter records that are required depending on certain criteria.
+
+-- select all columns from the customers table with last_name 'Doe' 
+SELECT *
+FROM Customers
+WHERE last_name = 'Doe';

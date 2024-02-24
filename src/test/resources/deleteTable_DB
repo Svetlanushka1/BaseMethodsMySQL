@@ -1,0 +1,7 @@
+DROP database:
+DROP DATABASE my_db;
+
+DROP table:
+DROP TABLE my_table;
+-- delete Orders table if it exists
+DROP TABLE IF EXISTS Orders;

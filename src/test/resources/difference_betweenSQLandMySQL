@@ -1,0 +1,6 @@
+What is the difference between SQL and MySQL?
+
+SQL is a standard language which stands for Structured Query Language based on the English language
+SQL is the core of the relational database which is used for accessing and managing database
+MySQL is a database management system.
+MySQL is an RDMS (Relational Database Management System) such as SQL Server, Informix etc.

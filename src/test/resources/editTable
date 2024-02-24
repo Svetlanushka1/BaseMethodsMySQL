@@ -1,0 +1,28 @@
+How to ALTER table:
+In SQL, the ALTER TABLE command is used to modify the structure of an existing table like adding, deleting, renaming columns, etc.
+-- add phone column to Customers table
+ALTER TABLE Customers
+ADD phone varchar(10);
+
+We can perform the following operations on a table using the ALTER TABLE command:
+
+Add a column
+Rename a column
+Modify a column
+Delete a column
+Rename a table
+
+-- add phone and age columns to Customers table
+ALTER TABLE Customers
+ADD phone varchar(10), age int;
+
+-- rename column customer_id to c_id
+ALTER TABLE Customers
+RENAME COLUMN customer_id TO c_id;
+
+ALTER TABLE Customers
+MODIFY COLUMN age VARCHAR(2);
+
+-- rename Customers table to New_customers
+ALTER TABLE Customers
+RENAME TO New_customers;
